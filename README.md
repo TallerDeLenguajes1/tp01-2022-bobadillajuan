@@ -10,3 +10,11 @@ En muchos lenguajes de programación acabaras con muchos archivos dentro de la c
 
 Para poder ignorar archivos lo primero es crear un ".gitignore". para esto utilizaremos la consolta de gitbash y ejecutaremos "$touch .gitignore", dentro de este archivo pegaremos los resultados de la página "gitignore.io" cuando especificamos lo que queremos ignorar (nos da a elegir la herramienta y el lenguaje que estamos utilizando). Guardamos el archivo y lo subimos al repositorio.
 En el caso en que queramos ignorar un archivo en particular, en este caso a "ignorado.txt" tan solo deberemos agregarlo al archivo .gitignore (en una linea nueva) y guardar el archivo nuevamente 
+
+_¿A qué se debe que los puntos ii y iii tengan el mismo resultado?_
+
+Cuando nosotros le asignamos al puntero una variable, este almacena su dirección de memoria. 
+
+_¿Qué obtiene en el punto iiii?_
+
+Esto nos devuelve la dirección de memoria del puntero, no de la variable a la que estamos apuntando, sino del puntero en sí. 
